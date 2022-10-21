@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nikita Salaria</h1>
 <h3 align="center">A fresher who is also a passionate budding software engineer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://i.etsystatic.com/37622737/r/il/eb4557/4251033510/il_340x270.4251033510_fj09.jpg">
+<img align="right" alt="Coding" width="200" src="https://i.etsystatic.com/37622737/r/il/eb4557/4251033510/il_340x270.4251033510_fj09.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitasalaria&label=Profile%20views&color=0e75b6&style=flat" alt="nikitasalaria" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitasalaria" alt="nikitasalaria" /></a> </p>
 
 - 🔭 I’m currently working on **full stack development**
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **CPP, DATA STRUCTURES AND ALGORITHM, SQL, DBMS**
+- 💬 Ask me about **CPP, DATA STRUCTURES AND ALGORITHM,DBMS,SQL**
 
-- 📫 How to reach me **nikitasalaria741@gmail.com**
+- 📫 How to reach me **Nikitasalaria741@gmail.com**
 
 - ⚡ Fun fact **I am companiable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/nikitasalaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikitasalaria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
